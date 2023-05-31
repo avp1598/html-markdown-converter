@@ -1,5 +1,5 @@
 [package]
-name = "html2md"
+name = "html-markdown-converter"
 version = "0.1.0"
 authors = ["Aditya Veer Parmar <nakulparmar15@gmail.com>"]
 edition = "2018"
